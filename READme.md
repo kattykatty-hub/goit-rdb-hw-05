@@ -1,4 +1,4 @@
-# SQL Homework — Subqueries & Functions
+# SQL Subqueries & Functions
 
 ## Structure
 - sql/ — SQL queries for each task
